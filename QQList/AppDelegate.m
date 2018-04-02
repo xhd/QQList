@@ -4,7 +4,8 @@
 //
 //  Created by CarolWang on 14/11/22.
 //  Copyright (c) 2014年 CarolWang. All rights reserved.
-//
+//  测试开发
+当前的分支是bug_分支
 
 #import "AppDelegate.h"
 
